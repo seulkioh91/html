@@ -1,0 +1,10 @@
+/* class는 우선순위가 type보다 크다 */
+/* id > class > type */ 
+
+.color{
+  color : red;
+}
+
+h3{
+  color : green;
+}
